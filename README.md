@@ -1,0 +1,36 @@
+# MyGIS
+ArcGIS Engine 二次开发的C#编写的桌面应用程序
+
+主界面
+
+![image-20220913155545481](README.assets/image-20220913155545481.png)
+
+包含功能
+
+![image-20220913155619529](README.assets/image-20220913155619529.png)
+
+![image-20220913155640417](README.assets/image-20220913155640417.png)
+
+![image-20220913155659918](README.assets/image-20220913155659918.png)
+
+![image-20220913155708234](README.assets/image-20220913155708234.png)
+
+![image-20220913155718032](README.assets/image-20220913155718032.png)
+
+![image-20220913155725675](README.assets/image-20220913155725675.png)
+
+图层的符号选择器以及图层的叠加顺序调整
+
+![image-20220913155829819](README.assets/image-20220913155829819.png)
+
+属性查询
+
+![image-20220913155916751](README.assets/image-20220913155916751.png)
+
+查询结果展示，双击属性表的一行，闪烁提示选取的要素
+
+![image-20220913160047484](README.assets/image-20220913160047484.png)
+
+空间查询
+
+![image-20220913160134899](README.assets/image-20220913160134899.png)
